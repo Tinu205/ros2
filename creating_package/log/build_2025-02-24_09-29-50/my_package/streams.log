@@ -1,0 +1,38 @@
+[1.506s] Invoking command in '/home/panda/Git/ros2/creating_package/src/my_package': PYTHONPATH=/home/panda/Git/ros2/creating_package/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/panda/Git/ros2/creating_package/build/my_package/build install --record /home/panda/Git/ros2/creating_package/build/my_package/install.log --single-version-externally-managed install_data
+[1.941s] running egg_info
+[1.942s] creating ../../build/my_package/my_package.egg-info
+[1.942s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[1.942s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[1.942s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[1.943s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[1.943s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[1.943s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.945s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.946s] adding license file 'LICENSE'
+[1.947s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.947s] running build
+[1.947s] running build_py
+[1.948s] creating /home/panda/Git/ros2/creating_package/build/my_package/build
+[1.949s] creating /home/panda/Git/ros2/creating_package/build/my_package/build/lib
+[1.949s] creating /home/panda/Git/ros2/creating_package/build/my_package/build/lib/my_package
+[1.950s] copying my_package/my_node.py -> /home/panda/Git/ros2/creating_package/build/my_package/build/lib/my_package
+[1.950s] copying my_package/__init__.py -> /home/panda/Git/ros2/creating_package/build/my_package/build/lib/my_package
+[1.950s] running install
+[1.951s] running install_lib
+[1.952s] creating /home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages/my_package
+[1.953s] copying /home/panda/Git/ros2/creating_package/build/my_package/build/lib/my_package/my_node.py -> /home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages/my_package
+[1.953s] copying /home/panda/Git/ros2/creating_package/build/my_package/build/lib/my_package/__init__.py -> /home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages/my_package
+[1.954s] byte-compiling /home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages/my_package/my_node.py to my_node.cpython-310.pyc
+[1.954s] byte-compiling /home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages/my_package/__init__.py to __init__.cpython-310.pyc
+[1.955s] running install_data
+[1.955s] creating /home/panda/Git/ros2/creating_package/install/my_package/share/ament_index
+[1.955s] creating /home/panda/Git/ros2/creating_package/install/my_package/share/ament_index/resource_index
+[1.955s] creating /home/panda/Git/ros2/creating_package/install/my_package/share/ament_index/resource_index/packages
+[1.956s] copying resource/my_package -> /home/panda/Git/ros2/creating_package/install/my_package/share/ament_index/resource_index/packages
+[1.956s] copying package.xml -> /home/panda/Git/ros2/creating_package/install/my_package/share/my_package
+[1.956s] running install_egg_info
+[1.958s] Copying ../../build/my_package/my_package.egg-info to /home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[1.960s] running install_scripts
+[1.996s] Installing my_node script to /home/panda/Git/ros2/creating_package/install/my_package/lib/my_package
+[1.996s] writing list of installed files to '/home/panda/Git/ros2/creating_package/build/my_package/install.log'
+[2.050s] Invoked command in '/home/panda/Git/ros2/creating_package/src/my_package' returned '0': PYTHONPATH=/home/panda/Git/ros2/creating_package/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/panda/Git/ros2/creating_package/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/panda/Git/ros2/creating_package/build/my_package/build install --record /home/panda/Git/ros2/creating_package/build/my_package/install.log --single-version-externally-managed install_data
