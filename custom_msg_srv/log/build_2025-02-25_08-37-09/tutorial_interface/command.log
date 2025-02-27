@@ -1,0 +1,2 @@
+Invoking command in '/home/panda/Git/ros2/custom_msg_srv/build/tutorial_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/panda/Git/ros2/custom_msg_srv/src/tutorial_interface -DCMAKE_INSTALL_PREFIX=/home/panda/Git/ros2/custom_msg_srv/install/tutorial_interface
+Invoked command in '/home/panda/Git/ros2/custom_msg_srv/build/tutorial_interface' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/panda/Git/ros2/custom_msg_srv/src/tutorial_interface -DCMAKE_INSTALL_PREFIX=/home/panda/Git/ros2/custom_msg_srv/install/tutorial_interface
